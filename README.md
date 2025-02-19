@@ -17,6 +17,15 @@
 
 The aim of the project was to analyze sales performance across multiple regions to uncover revenue trends, cost structures, and profitability insights. Key Metrics analyzed were: Total Revenue, Total Cost, Profit Margins, Sales Volume, and Order Prioritization Impact. Developed interactive Power BI dashboards to track regional performance, sales trends, and high-profit items. Analyzing different aspects of the sales data enabled identification of top-performing regions, profitable product categories, and cost-saving opportunities. It also provided data-driven recommendations to optimize pricing strategies, inventory management, and sales channels.
 
+
+
+
+
+![Screenshot (30)](https://github.com/user-attachments/assets/31cd08e7-ad02-41ac-a2ca-39247b77ecc5)
+
+![Screenshot (31)](https://github.com/user-attachments/assets/a80b5cea-8817-4dd5-90b6-e14e0ed98efa)
+
+
 ### Data Sources
 
 Sales data: The primary data used for this analysis is the “SalesReport.csv” file, containing detailed information about each sale made by the company over a period time.
@@ -47,11 +56,20 @@ EDA involved exploring the sales data to answer questions such as:
 4. What insights can be drawn from comparing high-performance vs low-performance channels or stores?
 5. How do customer segments differ in terms of purchasing behavior and revenue contributions?
 
+   
+![Screenshot (24)](https://github.com/user-attachments/assets/53c8b356-e462-4360-b00e-a9e28ae1a8ed)
+
+
+
+
+![Screenshot (23)](https://github.com/user-attachments/assets/78cf885d-9380-41ad-bb02-f068e6dbb4ca)
+
+
 ### Data analysis
 
-```
+
 ![Screenshot (25)](https://github.com/user-attachments/assets/6f5f58e2-d591-434b-ac71-dada76ff09e4)
-```
+
 
 ### Findings
 
