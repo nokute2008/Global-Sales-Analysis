@@ -14,6 +14,7 @@
 - [References](#references)
 
 ### Project Overview
+---
 
 The aim of the project was to analyze sales performance across multiple regions to uncover revenue trends, cost structures, and profitability insights. Key Metrics analyzed were: Total Revenue, Total Cost, Profit Margins, Sales Volume, and Order Prioritization Impact. Developed interactive Power BI dashboards to track regional performance, sales trends, and high-profit items. Analyzing different aspects of the sales data enabled identification of top-performing regions, profitable product categories, and cost-saving opportunities. It also provided data-driven recommendations to optimize pricing strategies, inventory management, and sales channels.
 
@@ -27,15 +28,18 @@ The aim of the project was to analyze sales performance across multiple regions 
 
 
 ### Data Sources
+---
 
 Sales data: The primary data used for this analysis is the “SalesReport.csv” file, containing detailed information about each sale made by the company over a period time.
 
 ### Tools
+---
 
 - EXCEL – Data Cleaning
 - Power BI – Visualizations and reports
 
 ### Data Cleaning
+---
 
 - Uploaded Dataset into Excel: Imported the raw sales dataset into Excel for initial preprocessing and data structuring.
 - Changed Data Types: Ensured correct data types for each column (e.g., converting dates to Date format, numerical values to appropriate data types).
@@ -47,6 +51,7 @@ Sales data: The primary data used for this analysis is the “SalesReport.csv”
 
 
 ### EDA
+---
 
 EDA involved exploring the sales data to answer questions such as:
 
@@ -66,12 +71,14 @@ EDA involved exploring the sales data to answer questions such as:
 
 
 ### Data analysis
+---
 
 
 ![Screenshot (25)](https://github.com/user-attachments/assets/6f5f58e2-d591-434b-ac71-dada76ff09e4)
 
 
 ### Findings
+---
 
 The analysis results are summarized as follows:
 1.	High-Revenue Regions Identified: The top-performing regions generated the highest total revenue, with Europe and Sub-Saharan Africa leading in sales volume and profitability.
@@ -81,6 +88,7 @@ The analysis results are summarized as follows:
 5.	Revenue Trend: The revenue trend remained stable until 2015, after which it experienced a sharp decline through 2022.
 
 ### Recommendations
+---
 
 - Revamp Pricing Strategy: Adjust pricing for low-margin products like fruits to improve profitability while maintaining competitive market positioning.
 - Boost High-Performing Product Sales: Focus marketing efforts on top-selling, high-margin items like cosmetics to maximize revenue growth.
@@ -88,6 +96,7 @@ The analysis results are summarized as follows:
 - Target High-Growth Regions: Invest resources in regions like Europe and Sub-Saharan Africa with strong sales performance while identifying and addressing challenges in underperforming markets like North America.
 
 ### Limitations
+---
 
 -  Lack of Customer Data: The dataset does not include customer demographics, preferences, or purchasing behavior, limiting insights into consumer trends.
 -  No External Market Factors: The analysis does not account for economic conditions, competitor pricing, or market demand shifts that may have influenced sales.
@@ -98,6 +107,7 @@ The analysis results are summarized as follows:
 - Limited View of Order Fulfillment Efficiency: While shipping dates are included, there is no detailed breakdown of delays, logistics costs, or fulfillment bottlenecks.
 
 ### References
+---
 
 1. Dataset Source
 [SalesReport.csv]
